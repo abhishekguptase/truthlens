@@ -60,7 +60,12 @@ TruthLens combines a **browser extension**, **FastAPI backend**, and an optional
 ![Extension Popup](screenshots/popup.png)
 
 ### Analytics Dashboard
-![Analytics Dashboard](screenshots/dashboard1.png)(screenshots/dashboard2.png)(screenshots/dashboard3.png)
+
+![Analytics Dashboard 1](screenshots/dashboard1.png)
+
+![Analytics Dashboard 2](screenshots/dashboard2.png)
+
+![Analytics Dashboard 3](screenshots/dashboard3.png)
 
 ### Detection Result — Fake Media
 ![Fake Detection](screenshots/fake-result.png)
@@ -285,7 +290,7 @@ TruthLens/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/17Abhi005/truthlens.git
+git clone https://github.com/abhishekguptase/truthlens.git
 cd truthlens
 ```
 
