@@ -70,8 +70,6 @@ TruthLens combines a **browser extension**, **FastAPI backend**, and an optional
 ### Detection Result — Fake Media
 ![Fake Detection](screenshots/fake-result.png)
 
-### Detection Result — Authentic Media
-![Authentic Detection](screenshots/authentic-result.png)
 
 ---
 
